@@ -1,3 +1,4 @@
+# Solution-to-Inverse-Kinematics-problem-using-Numerical-methods
 
 ### Abstract
 Inverse Kinematics (IK) problem is defined as the problem of determining a set of appropriate joint configurations for
@@ -9,8 +10,6 @@ uses one of the methods. We have also simulated the working of the methods in Un
 https://pushpendra.itch.io/robot-arm
 
 ![demoimage](https://github.com/pps-19012/Solution-to-Inverse-Kinematics-problem-using-Numerical-methods/blob/main/robotarm.png)
-
-### [Project Report](https://github.com/pps-19012/Solution-to-Inverse-Kinematics-problem-using-Numerical-methods/blob/main/Report_MA202_Project2.pdf)
 
 | File names | Function of those files: |  
 | --- | --- |
